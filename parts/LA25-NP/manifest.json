@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/LA25-NP:LA25-NP",
+  "name": "LA25-NP",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/LA25-NP.kicad_sym",
+  "description": "Current Transducer, 25A, Tripolar, +/-15V",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/la%2025-np.pdf",
+  "keywords": "Current Transducer LEM ",
+  "footprint": "Sensor_Current:LEM_LA25-NP",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/LA25-NP/",
+  "part_path": "parts/LA25-NP",
+  "symbol_file": "parts/LA25-NP/LA25-NP.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.713Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/HX02-P:HX02-P",
+  "name": "HX02-P",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/HX02-P.kicad_sym",
+  "description": "Current Transducer, 2A, Bipolar, ±15V",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/hx%202_6-p_e%20v5.pdf",
+  "keywords": "current transducer",
+  "footprint": "Sensor_Current:LEM_HX02-P",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/HX02-P/",
+  "part_path": "parts/HX02-P",
+  "symbol_file": "parts/HX02-P/HX02-P.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.658Z"
+}

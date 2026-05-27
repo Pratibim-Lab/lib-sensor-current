@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/CKSR_6-NP:CKSR_6-NP",
+  "name": "CKSR_6-NP",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/CKSR_6-NP.kicad_sym",
+  "description": "Current Transducer, 6A, Unipolar, 0-5V Output, 4 Primary Windings",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/cksr_xx-np_v14.pdf",
+  "keywords": "Lem transformer",
+  "footprint": "Sensor_Current:LEM_CKSR",
+  "extends": "CKSR_15-NP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/CKSR_6-NP/",
+  "part_path": "parts/CKSR_6-NP",
+  "symbol_file": "parts/CKSR_6-NP/CKSR_6-NP.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.528Z"
+}

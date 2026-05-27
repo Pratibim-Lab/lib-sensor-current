@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/IR22771S:IR22771S",
+  "name": "IR22771S",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/IR22771S.kicad_sym",
+  "description": "Phase Current Sensor IC for AC Motor Control, PWM output, 1200V, SOIC-16W",
+  "datasheet": "https://www.infineon.com/dgdl/ir21771s.pdf?fileId=5546d462533600a4015355c9222c16c8",
+  "keywords": "half bridge current sense",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "IR21771S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/IR22771S/",
+  "part_path": "parts/IR22771S",
+  "symbol_file": "parts/IR22771S/IR22771S.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.701Z"
+}

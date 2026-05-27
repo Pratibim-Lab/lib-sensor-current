@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS733xLATR-65AB:ACS733xLATR-65AB",
+  "name": "ACS733xLATR-65AB",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS733xLATR-65AB.kicad_sym",
+  "description": "±65A Unidirectional Hall-Effect Current Sensor, +3.3V supply, 20mV/A, SOIC-16",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS732-ACS733-Datasheet.ashx?la=en",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "ACS732xLATR-40AB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS733xLATR-65AB/",
+  "part_path": "parts/ACS733xLATR-65AB",
+  "symbol_file": "parts/ACS733xLATR-65AB/ACS733xLATR-65AB.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.297Z"
+}

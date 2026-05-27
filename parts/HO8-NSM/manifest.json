@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/HO8-NSM:HO8-NSM",
+  "name": "HO8-NSM",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/HO8-NSM.kicad_sym",
+  "description": "Hall Effect Current Transducer, 8A, Unipolar, 5V, SMT",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/ho-nsm-0000_series.pdf",
+  "keywords": "Lem",
+  "footprint": "Sensor_Current:LEM_HO8-NSM",
+  "extends": "HO8-NP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/HO8-NSM/",
+  "part_path": "parts/HO8-NSM",
+  "symbol_file": "parts/HO8-NSM/HO8-NSM.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.647Z"
+}

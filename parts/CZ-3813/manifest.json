@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/CZ-3813:CZ-3813",
+  "name": "CZ-3813",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/CZ-3813.kicad_sym",
+  "description": "Coreless Current Sensor, Bidirectional, -33.0A to +33.0A, 60mV/A, VSOP-24",
+  "datasheet": "http://www.akm.com/akm/en/file/datasheet/CZ-3813.pdf",
+  "keywords": "hall effect current sensor",
+  "footprint": "Sensor_Current:AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/CZ-3813/",
+  "part_path": "parts/CZ-3813",
+  "symbol_file": "parts/CZ-3813/CZ-3813.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.624Z"
+}

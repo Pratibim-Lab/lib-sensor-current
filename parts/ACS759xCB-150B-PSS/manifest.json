@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS759xCB-150B-PSS:ACS759xCB-150B-PSS",
+  "name": "ACS759xCB-150B-PSS",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS759xCB-150B-PSS.kicad_sym",
+  "description": "±150A Bidirectional Hall-Effect Current Sensor, +3.3V supply, 8.8mV/A, CB-5 PSS",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS759-Datasheet.ashx?la=en",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Sensor_Current:Allegro_CB_PSS",
+  "extends": "ACS758xCB-150B-PSS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS759xCB-150B-PSS/",
+  "part_path": "parts/ACS759xCB-150B-PSS",
+  "symbol_file": "parts/ACS759xCB-150B-PSS/ACS759xCB-150B-PSS.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.374Z"
+}

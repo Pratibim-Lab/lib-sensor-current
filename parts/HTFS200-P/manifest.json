@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/HTFS200-P:HTFS200-P",
+  "name": "HTFS200-P",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/HTFS200-P.kicad_sym",
+  "description": "Current Transducer, 200A, Unipolar, 5V",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/htfs_200_800-p.pdf",
+  "keywords": "current transducer",
+  "footprint": "Sensor_Current:LEM_HTFS",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/HTFS200-P/",
+  "part_path": "parts/HTFS200-P",
+  "symbol_file": "parts/HTFS200-P/HTFS200-P.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.649Z"
+}

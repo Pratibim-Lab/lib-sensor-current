@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/CQ-2335:CQ-2335",
+  "name": "CQ-2335",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/CQ-2335.kicad_sym",
+  "description": "High-Speed Small Current Sensor, Bidirectional, -85A to +85A, 25mV/A, CQ-7",
+  "datasheet": "http://www.akm.com/akm/en/file/datasheet/CQ-2335.pdf",
+  "keywords": "hall effect current sensor",
+  "footprint": "Sensor_Current:AKM_CQ_7",
+  "extends": "CQ-2063",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/CQ-2335/",
+  "part_path": "parts/CQ-2335",
+  "symbol_file": "parts/CQ-2335/CQ-2335.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.574Z"
+}

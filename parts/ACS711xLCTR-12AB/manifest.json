@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS711xLCTR-12AB:ACS711xLCTR-12AB",
+  "name": "ACS711xLCTR-12AB",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS711xLCTR-12AB.kicad_sym",
+  "description": "±12.5A Bidirectional Hall-Effect Current Sensor, +3.3V supply, 110mV/A, SOIC-8",
+  "datasheet": "http://www.allegromicro.com/~/Media/Files/Datasheets/ACS711-Datasheet.ashx",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS711xLCTR-12AB/",
+  "part_path": "parts/ACS711xLCTR-12AB",
+  "symbol_file": "parts/ACS711xLCTR-12AB/ACS711xLCTR-12AB.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.049Z"
+}

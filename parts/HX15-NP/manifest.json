@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/HX15-NP:HX15-NP",
+  "name": "HX15-NP",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/HX15-NP.kicad_sym",
+  "description": "Current Transducer, 15A, Bipolar, ±15V",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/hx%205_15-np_e%20v10.pdf",
+  "keywords": "current transducer",
+  "footprint": "Sensor_Current:LEM_HX15-NP",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/HX15-NP/",
+  "part_path": "parts/HX15-NP",
+  "symbol_file": "parts/HX15-NP/HX15-NP.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.674Z"
+}

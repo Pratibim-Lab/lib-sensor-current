@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/CKSR_15-NP:CKSR_15-NP",
+  "name": "CKSR_15-NP",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/CKSR_15-NP.kicad_sym",
+  "description": "Current Transducer, 15A, Unipolar, 0-5V Output, 4 Primary Windings",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/cksr_xx-np_v14.pdf",
+  "keywords": "Lem transformer",
+  "footprint": "Sensor_Current:LEM_CKSR",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/CKSR_15-NP/",
+  "part_path": "parts/CKSR_15-NP",
+  "symbol_file": "parts/CKSR_15-NP/CKSR_15-NP.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.516Z"
+}

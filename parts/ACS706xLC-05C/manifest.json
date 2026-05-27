@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS706xLC-05C:ACS706xLC-05C",
+  "name": "ACS706xLC-05C",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS706xLC-05C.kicad_sym",
+  "description": "±15A Bidirectional Hall Effect Linear Current Sensor, +5.0V supply, 133mV/A, SOIC-8, OBSOLETE",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS706ELC-05C-Datasheet.ashx",
+  "keywords": "hall effect current monitor sensor isolated obsolete",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS706xLC-05C/",
+  "part_path": "parts/ACS706xLC-05C",
+  "symbol_file": "parts/ACS706xLC-05C/ACS706xLC-05C.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:54.992Z"
+}

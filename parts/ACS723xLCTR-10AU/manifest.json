@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS723xLCTR-10AU:ACS723xLCTR-10AU",
+  "name": "ACS723xLCTR-10AU",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS723xLCTR-10AU.kicad_sym",
+  "description": "10A Unidirectional Hall-Effect Current Sensor, +5.0V supply, 400mV/A, SOIC-8",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS723-Datasheet.ashx?la=en",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "ACS722xLCTR-05AB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS723xLCTR-10AU/",
+  "part_path": "parts/ACS723xLCTR-10AU",
+  "symbol_file": "parts/ACS723xLCTR-10AU/ACS723xLCTR-10AU.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.162Z"
+}

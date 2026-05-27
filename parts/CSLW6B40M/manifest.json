@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/CSLW6B40M:CSLW6B40M",
+  "name": "CSLW6B40M",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/CSLW6B40M.kicad_sym",
+  "description": "Miniature Wired Open-Loop Current Sensors, 40mA",
+  "datasheet": "https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf",
+  "keywords": "hall current sensor",
+  "footprint": "Sensor_Current:Honeywell_CSLW",
+  "extends": "CSLW6B1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/CSLW6B40M/",
+  "part_path": "parts/CSLW6B40M",
+  "symbol_file": "parts/CSLW6B40M/CSLW6B40M.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.621Z"
+}

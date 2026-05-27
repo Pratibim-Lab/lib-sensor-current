@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/HO25-NSM:HO25-NSM",
+  "name": "HO25-NSM",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/HO25-NSM.kicad_sym",
+  "description": "Hall Effect Current Transducer, 25A, Unipolar, 5V, SMT",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/ho-nsm-0000_series.pdf",
+  "keywords": "Lem",
+  "footprint": "Sensor_Current:LEM_HO8-NSM",
+  "extends": "HO8-NP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/HO25-NSM/",
+  "part_path": "parts/HO25-NSM",
+  "symbol_file": "parts/HO25-NSM/HO25-NSM.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.640Z"
+}

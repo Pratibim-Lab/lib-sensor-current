@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/LTSR6-NP:LTSR6-NP",
+  "name": "LTSR6-NP",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/LTSR6-NP.kicad_sym",
+  "description": "Current Transducer, Unipolar, 6A, 5V supply, DC, AC, pulsed",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/ltsr_6-np.pdf",
+  "keywords": "current transducer",
+  "footprint": "Sensor_Current:LEM_LTSR-NP",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/LTSR6-NP/",
+  "part_path": "parts/LTSR6-NP",
+  "symbol_file": "parts/LTSR6-NP/LTSR6-NP.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.728Z"
+}

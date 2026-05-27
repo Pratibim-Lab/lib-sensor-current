@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/MCA1101-50-5:MCA1101-50-5",
+  "name": "MCA1101-50-5",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/MCA1101-50-5.kicad_sym",
+  "description": "High Accuracy Current Sensor IC with 1.5MHz 3dB Bandwidth and Isolation, ±50A, 5V Supply, Fixed Gain, 35 mV/A, SOIC-16W",
+  "datasheet": "https://navview.blob.core.windows.net/web-resources/6020-1102-01%20RevG_MCA1101_Fix%20Gain%205V_10112021.pdf",
+  "keywords": "amr-sensor isolated-current-sensor",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "MCA1101-65-5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/MCA1101-50-5/",
+  "part_path": "parts/MCA1101-50-5",
+  "symbol_file": "parts/MCA1101-50-5/MCA1101-50-5.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.755Z"
+}

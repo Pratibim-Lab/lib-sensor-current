@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/CQ-206B:CQ-206B",
+  "name": "CQ-206B",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/CQ-206B.kicad_sym",
+  "description": "High-Speed Small-Sized Current Sensor, Unidirectional, 0A to +45A, 90mV/A, CQ-7",
+  "datasheet": "http://www.akm.com/akm/en/file/datasheet/CQ-206B.pdf",
+  "keywords": "hall effect current sensor",
+  "footprint": "Sensor_Current:AKM_CQ_7",
+  "extends": "CQ-2063",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/CQ-206B/",
+  "part_path": "parts/CQ-206B",
+  "symbol_file": "parts/CQ-206B/CQ-206B.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.545Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS726xLFTR-20B:ACS726xLFTR-20B",
+  "name": "ACS726xLFTR-20B",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS726xLFTR-20B.kicad_sym",
+  "description": "±20A Bidirectional Hall-Effect Current Sensor, +3.3V supply, 100mV/A, QSOP-24",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS726-Datasheet.ashx?la=en",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Sensor_Current:Allegro_QSOP-24_3.9x8.7mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS726xLFTR-20B/",
+  "part_path": "parts/ACS726xLFTR-20B",
+  "symbol_file": "parts/ACS726xLFTR-20B/ACS726xLFTR-20B.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.263Z"
+}

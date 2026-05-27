@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS711xEXLT-15AB:ACS711xEXLT-15AB",
+  "name": "ACS711xEXLT-15AB",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS711xEXLT-15AB.kicad_sym",
+  "description": "±15A Bidirectional Hall-Effect Current Sensor, +3.3V supply, 90mV/A, QFN-12",
+  "datasheet": "http://www.allegromicro.com/~/Media/Files/Datasheets/ACS711-Datasheet.ashx",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Sensor_Current:Allegro_QFN-12-10-1EP_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS711xEXLT-15AB/",
+  "part_path": "parts/ACS711xEXLT-15AB",
+  "symbol_file": "parts/ACS711xEXLT-15AB/ACS711xEXLT-15AB.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.044Z"
+}

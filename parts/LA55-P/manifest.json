@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/LA55-P:LA55-P",
+  "name": "LA55-P",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/LA55-P.kicad_sym",
+  "description": "Current Transducer, 50A, Bipolar, ±15V",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/la_55-p_e.pdf",
+  "keywords": "current transducer",
+  "footprint": "Sensor_Current:LEM_LA25-P",
+  "extends": "LA25-P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/LA55-P/",
+  "part_path": "parts/LA55-P",
+  "symbol_file": "parts/LA55-P/LA55-P.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.718Z"
+}

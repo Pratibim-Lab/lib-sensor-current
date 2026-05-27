@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS781xLRTR-100U:ACS781xLRTR-100U",
+  "name": "ACS781xLRTR-100U",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS781xLRTR-100U.kicad_sym",
+  "description": "100A Unidirectional Hall-Effect Current Sensor, +3.3V supply, 26.4mV/A, PSOF-7",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS781-Datasheet.ashx?la=en",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Sensor_Current:Allegro_PSOF-7_4.8x6.4mm_P1.60mm",
+  "extends": "ACS780xLRTR-050B",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS781xLRTR-100U/",
+  "part_path": "parts/ACS781xLRTR-100U",
+  "symbol_file": "parts/ACS781xLRTR-100U/ACS781xLRTR-100U.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.502Z"
+}

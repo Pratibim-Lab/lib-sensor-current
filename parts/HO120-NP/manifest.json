@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/HO120-NP:HO120-NP",
+  "name": "HO120-NP",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/HO120-NP.kicad_sym",
+  "description": "Hall Effect Current Transducer, 120A, Unipolar, 5V, THT",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/ho-np_series.pdf",
+  "keywords": "Lem",
+  "footprint": "Sensor_Current:LEM_HO40-NP",
+  "extends": "HO40-NP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/HO120-NP/",
+  "part_path": "parts/HO120-NP",
+  "symbol_file": "parts/HO120-NP/HO120-NP.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.629Z"
+}

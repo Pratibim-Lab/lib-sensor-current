@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/HO25-NPxSP33:HO25-NPxSP33",
+  "name": "HO25-NPxSP33",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/HO25-NPxSP33.kicad_sym",
+  "description": "Hall Effect Current Transducer, 25A, Unipolar, 3.3V, THT",
+  "datasheet": "https://www.lem.com/sites/default/files/products_datasheets/ho-np_sp33-1000_series.pdf",
+  "keywords": "Lem",
+  "footprint": "Sensor_Current:LEM_HO8-NP",
+  "extends": "HO8-NPxSP33",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/HO25-NPxSP33/",
+  "part_path": "parts/HO25-NPxSP33",
+  "symbol_file": "parts/HO25-NPxSP33/HO25-NPxSP33.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.639Z"
+}

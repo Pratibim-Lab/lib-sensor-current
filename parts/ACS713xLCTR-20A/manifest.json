@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS713xLCTR-20A:ACS713xLCTR-20A",
+  "name": "ACS713xLCTR-20A",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS713xLCTR-20A.kicad_sym",
+  "description": "20A Unidirectional Hall-Effect Current Sensor, +5.0V supply, 185mV/A, SOIC-8",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS713-Datasheet.ashx?la=en",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "ACS712xLCTR-05B",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS713xLCTR-20A/",
+  "part_path": "parts/ACS713xLCTR-20A",
+  "symbol_file": "parts/ACS713xLCTR-20A/ACS713xLCTR-20A.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.066Z"
+}

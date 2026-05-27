@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/A1365xKTTN-10:A1365xKTTN-10",
+  "name": "A1365xKTTN-10",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/A1365xKTTN-10.kicad_sym",
+  "description": "Programmable Linear Hall Effect Sensor, +6.4 to +14mV/G, SIP-4",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/A1365-Datasheet.ashx?la=en",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Sensor_Current:Allegro_SIP-4",
+  "extends": "A1365xKTTN-1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/A1365xKTTN-10/",
+  "part_path": "parts/A1365xKTTN-10",
+  "symbol_file": "parts/A1365xKTTN-10/A1365xKTTN-10.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:54.919Z"
+}

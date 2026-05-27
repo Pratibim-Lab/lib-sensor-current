@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/CQ-3201:CQ-3201",
+  "name": "CQ-3201",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/CQ-3201.kicad_sym",
+  "description": "High-Speed Response Coreless Current Sensor, Bidirectional, -10.1A to +10.1A, 130mV/A, VSOP-24",
+  "datasheet": "http://www.akm.com/akm/en/file/datasheet/CQ-3201.pdf",
+  "keywords": "hall effect current sensor",
+  "footprint": "Sensor_Current:AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm",
+  "extends": "CQ-3200",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/CQ-3201/",
+  "part_path": "parts/CQ-3201",
+  "symbol_file": "parts/CQ-3201/CQ-3201.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.585Z"
+}

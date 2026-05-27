@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/ACS722xMATR-10AB:ACS722xMATR-10AB",
+  "name": "ACS722xMATR-10AB",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/ACS722xMATR-10AB.kicad_sym",
+  "description": "±10A Bidirectional Hall-Effect Current Sensor, +3.3V supply, 132mV/A, SOIC-16",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS722KMA-Datasheet.ashx?la=en",
+  "keywords": "hall effect current monitor sensor isolated",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/ACS722xMATR-10AB/",
+  "part_path": "parts/ACS722xMATR-10AB",
+  "symbol_file": "parts/ACS722xMATR-10AB/ACS722xMATR-10AB.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.143Z"
+}

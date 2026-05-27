@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Current/CQ-2092:CQ-2092",
+  "name": "CQ-2092",
+  "library": "Sensor_Current",
+  "file": "Sensor_Current.kicad_symdir/CQ-2092.kicad_sym",
+  "description": "High-Speed Small-Sized Current Sensor, Bidirectional, -21A to +21A, 100mV/A, CQ-7S",
+  "datasheet": "http://www.akm.com/akm/en/file/datasheet/CQ-2092.pdf",
+  "keywords": "hall effect current sensor",
+  "footprint": "Sensor_Current:AKM_CQ_7S",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-current@master/parts/CQ-2092/",
+  "part_path": "parts/CQ-2092",
+  "symbol_file": "parts/CQ-2092/CQ-2092.kicad_sym",
+  "source_library": "Sensor_Current.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:55.546Z"
+}
